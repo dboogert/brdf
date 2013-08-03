@@ -46,7 +46,7 @@ infringement.
 #ifndef _DGL_FRAME_BUFFER_H_
 #define _DGL_FRAME_BUFFER_H_
 
-#include <GL/gl.h>
+#include <OpenGL/gl.h>
 #include <vector>
 #include <string>
 
